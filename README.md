@@ -1,4 +1,4 @@
-# Personal Finance Assistant
+# Personal Finance Tracker
 
 A modern, full-stack personal finance management app that helps users track expenses, analyze spending, and manage receipts with advanced analytics and OCR capabilities.
 
